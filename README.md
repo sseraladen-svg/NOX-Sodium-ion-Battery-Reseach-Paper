@@ -6,6 +6,10 @@ This repository contains the research paper on NOX Sodium-ion Battery (NaPOD) re
 
 This research focuses on Sodium-ion Battery technology, specifically investigating NOX-based materials and their applications in energy storage systems. The paper presents detailed findings, analysis, and methodologies related to NaPOD (Sodium-ion Battery) research.
 
+### Research Description
+
+Self-authored technical manuscript proposing a mechanically constrained sodium-ion battery module for 12V residential inverter applications, with a novel spring-compliant architecture designed to accommodate cell expansion while maintaining controlled stack pressure. Integrates mechanical constraint, BMS architecture, and passive thermal management into a unified energy-storage design.
+
 ## Document
 
 - **File:** `NOX_NaPOD_Research_Paper_Revised.docx`
