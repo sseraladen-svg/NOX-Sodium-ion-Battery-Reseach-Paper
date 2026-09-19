@@ -8,9 +8,9 @@ This research focuses on Sodium-ion Battery technology, specifically investigati
 
 ## Document
 
-- **File:** `NOX_NaPOD_Revised_Research_Paper.docx`
+- **File:** `NOX_NaPOD_Research_Paper_Revised.docx`
 - **Format:** Microsoft Word Document
-- **Status:** Revised version
+- **Status:** Revised version (3)
 
 ## Research Focus
 
